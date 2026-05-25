@@ -2,7 +2,7 @@
 
 https://my.feishu.cn/base/QNFrb3p9kajO3esGjJkciBZ3nih?table=tblq7BOiC8EFkisW&view=vewLiUusXC
 
-> 用飞书多维表格替代传统ERP，用自然语言对话替代手工录入。三个AI Agent（DeepSeek + 扣子 + Hanako）协作实现采购、销售、物流、财务的全链路自动化。
+> 用飞书多维表格替代传统ERP，用自然语言对话替代手工录入。三个AI Agent（IMA + COZE）协作实现采购、销售、物流、财务的全链路自动化。
 
 ---
 
@@ -56,7 +56,7 @@ https://my.feishu.cn/base/QNFrb3p9kajO3esGjJkciBZ3nih?table=tblq7BOiC8EFkisW&vie
 
 *什么时候用：收到供应商发货、客户下订单、客户回款时*
 
-1. 用自然语言描述业务：`【回款明细：【王奎👥】回款到【微信钱包💳】607,000元💰...】`
+1. 用自然语言描述业务：`【回款明细：【XX👥】回款到【XX💳】XXX元💰...】`
 2. Agent自动解析分类 → 预查档案 → 创建记录 → 匹配关联 → 回读验证
 3. 无超标、无跨客户错配 → 报告结果
 
@@ -72,7 +72,7 @@ https://my.feishu.cn/base/QNFrb3p9kajO3esGjJkciBZ3nih?table=tblq7BOiC8EFkisW&vie
 
 *什么时候用：从微信钱包转钱到银行卡时*
 
-1. 发送：`【账户转账：从【微信钱包💳】提现 50,000元💰到【农业银行🏦】，手续费 0.1%】`
+1. 发送：`【账户转账：从【XX💳】提现 XX元💰到【XX🏦】，手续费 0.1%】`
 2. Agent自动计算：手续费=50，到账=49,950
 3. 创建3条记录：工作支出(50)+工作支出(49,950)+回款明细(49,950，无客户关联)
 
