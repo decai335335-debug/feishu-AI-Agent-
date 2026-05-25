@@ -1,5 +1,7 @@
 # 淀粉贸易业务管理系统 · AI Agent 驱动的进销存+财务一体化
 
+https://my.feishu.cn/base/QNFrb3p9kajO3esGjJkciBZ3nih?table=tblq7BOiC8EFkisW&view=vewLiUusXC
+
 > 用飞书多维表格替代传统ERP，用自然语言对话替代手工录入。三个AI Agent（DeepSeek + 扣子 + Hanako）协作实现采购、销售、物流、财务的全链路自动化。
 
 ---
