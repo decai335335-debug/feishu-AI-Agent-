@@ -1,4 +1,4 @@
-# 淀粉贸易业务管理系统 · AI Agent 驱动的进销存+财务一体化
+# 贸易业务管理系统 · AI Agent 驱动的进销存+财务一体化
 
 https://my.feishu.cn/base/QNFrb3p9kajO3esGjJkciBZ3nih?table=tblq7BOiC8EFkisW&view=vewLiUusXC
 
